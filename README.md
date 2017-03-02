@@ -21,7 +21,7 @@ I'll be the first to admit that front-end isn't my strong suit, and one may thin
     width: 496px;
     }
   ```
-Of course, this kind of dexterity isn't arbitrary. I had a wonderful introduction to my browser's devtools to inspect html elements and css rules. Also, does it count as an api if I send a q string to https://www.google.com?
+Of course, this kind of dexterity isn't arbitrary. I had a wonderful introduction to my browser's devtools to inspect html elements and css rules. Also, does it count as an api if I send a `q` string to `https://www.google.com`?
 
 ## Where do we go from here?
 This project is complete, but more like it are sure to come. Cloning website frontends in this way is great way to practice for me. It wouldn't hurt to go back and refactor this page either.
